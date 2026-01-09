@@ -30,7 +30,7 @@ function App() {
       </div>
 
       <p className="footer">
-        hello world
+        hello world jacob
       </p>
     </div>
   )
