@@ -30,7 +30,7 @@ function App() {
       </div>
 
       <p className="footer">
-        Click the Vite and React logos to learn more
+        hello world
       </p>
     </div>
   )
